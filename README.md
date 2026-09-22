@@ -97,32 +97,40 @@ Windows কম্পিউটারে ব্যবহার করার জন
 
 ---
 
-## 📸 স্ক্রিনশট
 
-### 🏠 প্রধান পেজ
+# 📸 Screenshots
 
-<p align="center">
-<img src="screenshots/home.png" alt="প্রধান পেজ" width="850">
-</p>
-
-### 🇬🇧 English টাইপিং
+## 🏠 Home
 
 <p align="center">
-<img src="screenshots/english.png" alt="English Typing" width="850">
+  <img src="./home.png" alt="Ripon Typing Tutor Home" width="800">
 </p>
 
-### 🇧🇩 Avro টাইপিং
+---
+
+## 🇬🇧 English Typing
 
 <p align="center">
-<img src="screenshots/avro.png" alt="Avro Typing" width="850">
+  <img src="./english.png" alt="English Typing" width="800">
 </p>
 
-### ⌨️ Bijoy টাইপিং
+---
+
+## 🇧🇩 Avro Typing
 
 <p align="center">
-<img src="screenshots/bijoy.png" alt="Bijoy Typing" width="850">
+  <img src="./avro.png" alt="Avro Typing" width="800">
 </p>
 
+---
+
+## ⌨️ Bijoy Typing
+
+<p align="center">
+  <img src="./bijoy.png" alt="Bijoy Typing" width="800">
+</p>
+
+---
 ---
 
 ## 👨‍🎓 কারা ব্যবহার করতে পারবেন?
