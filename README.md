@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/⬇%20EXE%20ডাউনলোড-এখনই%20ডাউনলোড-success?style=for-the-badge&logo=windows&logoColor=white">
 </a>
 
-<a href="YOUR_VIDEO_LINK">
+<a href="https://youtu.be/IcF5EvcVRps">
 <img src="https://img.shields.io/badge/▶%20ডেমো%20ভিডিও-দেখুন-red?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
@@ -81,7 +81,7 @@ Windows কম্পিউটারে ব্যবহার করার জন
 
 <p align="center">
 
-<a href="YOUR_VIDEO_LINK">
+<a href="https://youtu.be/IcF5EvcVRps">
 <img src="YOUR_VIDEO_THUMBNAIL_URL" alt="Ripon Typing Tutor Demo" width="850">
 </a>
 
@@ -89,7 +89,7 @@ Windows কম্পিউটারে ব্যবহার করার জন
 
 <p align="center">
 
-<a href="YOUR_VIDEO_LINK">
+<a href="https://youtu.be/IcF5EvcVRps">
 ▶️ <b>ডেমো ভিডিও দেখতে এখানে ক্লিক করুন</b>
 </a>
 
