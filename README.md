@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<a href="YOUR_DOWNLOAD_LINK">
+<a href="https://github.com/thestartinglightofearth/Ripon-Typing-Tutor/raw/refs/heads/main/Ripon%20Typing%20Tutor.exe">
 <img src="https://img.shields.io/badge/⬇%20EXE%20ডাউনলোড-এখনই%20ডাউনলোড-success?style=for-the-badge&logo=windows&logoColor=white">
 </a>
 
