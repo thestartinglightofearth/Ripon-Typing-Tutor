@@ -55,7 +55,7 @@ Windows কম্পিউটারে ব্যবহার করার জন
 
 <p align="center">
 
-<a href="[YOUR_DOWNLOAD_LINK](https://github.com/thestartinglightofearth/Ripon-Typing-Tutor/raw/refs/heads/main/Ripon%20Typing%20Tutor.exe)">
+<a href="https://github.com/thestartinglightofearth/Ripon-Typing-Tutor/raw/refs/heads/main/Ripon%20Typing%20Tutor.exe">
 <img src="https://img.shields.io/badge/⬇%20Ripon%20Typing%20Tutor%20ডাউনলোড-EXE-success?style=for-the-badge&logo=windows&logoColor=white">
 </a>
 
