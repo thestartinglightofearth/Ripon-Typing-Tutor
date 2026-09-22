@@ -49,21 +49,13 @@
 
 ---
 
-## 🖥️ অ্যাপটি দেখুন
-
-<p align="center">
-<img src="screenshots/home.png" alt="Ripon Typing Tutor" width="850">
-</p>
-
----
-
 ## 📥 অ্যাপটি ডাউনলোড করুন
 
 Windows কম্পিউটারে ব্যবহার করার জন্য প্রস্তুত **EXE ফাইল** ডাউনলোড করুন।
 
 <p align="center">
 
-<a href="YOUR_DOWNLOAD_LINK">
+<a href="[YOUR_DOWNLOAD_LINK](https://github.com/thestartinglightofearth/Ripon-Typing-Tutor/raw/refs/heads/main/Ripon%20Typing%20Tutor.exe)">
 <img src="https://img.shields.io/badge/⬇%20Ripon%20Typing%20Tutor%20ডাউনলোড-EXE-success?style=for-the-badge&logo=windows&logoColor=white">
 </a>
 
