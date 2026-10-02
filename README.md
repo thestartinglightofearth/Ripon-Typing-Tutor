@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<a href="https://github.com/thestartinglightofearth/Ripon-Typing-Tutor/raw/refs/heads/main/Ripon%20Typing%20Tutor.exe">
+<a href="https://drive.google.com/file/d/1sgnmzvLF0b3AlAgXs-PjXIRSfDRoMAcd/view?usp=drive_link">
 <img src="https://img.shields.io/badge/⬇%20EXE%20ডাউনলোড-এখনই%20ডাউনলোড-success?style=for-the-badge&logo=windows&logoColor=white">
 </a>
 
@@ -55,7 +55,7 @@ Windows কম্পিউটারে ব্যবহার করার জন
 
 <p align="center">
 
-<a href="https://github.com/thestartinglightofearth/Ripon-Typing-Tutor/raw/refs/heads/main/Ripon%20Typing%20Tutor.exe">
+<a href="https://drive.google.com/file/d/1sgnmzvLF0b3AlAgXs-PjXIRSfDRoMAcd/view?usp=drive_link">
 <img src="https://img.shields.io/badge/⬇%20Ripon%20Typing%20Tutor%20ডাউনলোড-EXE-success?style=for-the-badge&logo=windows&logoColor=white">
 </a>
 
