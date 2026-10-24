@@ -16,6 +16,10 @@
   </a>
 </p>
 
+### 🔐 Password
+
+**Password:** `RiponComputer`
+****
 ---
 
 ## 🎯 কী কী টাইপিং শিখতে পারবেন?
