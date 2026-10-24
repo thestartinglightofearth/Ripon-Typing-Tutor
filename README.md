@@ -1,3 +1,4 @@
+
 # ⌨️ Ripon Typing Tutor
 
 ### সহজে English, Avro ও Bijoy টাইপিং শিখুন
@@ -7,15 +8,12 @@
 নতুনদের জন্য সহজভাবে টাইপিং শেখা এবং নিয়মিত অনুশীলনের মাধ্যমে **টাইপিংয়ের গতি ও নির্ভুলতা বৃদ্ধি** করাই এই অ্যাপের মূল উদ্দেশ্য।
 
 <p align="center">
-
-<a href="https://drive.google.com/file/d/18Az78OrR2UQcCFThtpzQPc85WbTtY7p7/view?usp=sharing">
-<img src="https://img.shields.io/badge/⬇%20EXE%20ডাউনলোড-এখনই%20ডাউনলোড-success?style=for-the-badge&logo=windows&logoColor=white">
-</a>
-
-<a href="https://youtu.be/IcF5EvcVRps">
-<img src="https://img.shields.io/badge/▶%20ডেমো%20ভিডিও-দেখুন-red?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-
+  <a href="https://drive.google.com/file/d/18Az78OrR2UQcCFThtpzQPc85WbTtY7p7/view?usp=sharing">
+    <img src="https://img.shields.io/badge/⬇%20EXE%20ডাউনলোড-এখনই%20ডাউনলোড-success?style=for-the-badge&logo=windows&logoColor=white" alt="EXE Download">
+  </a>
+  <a href="https://youtu.be/IcF5EvcVRps">
+    <img src="https://img.shields.io/badge/▶%20ডেমো%20ভিডিও-দেখুন-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Video">
+  </a>
 </p>
 
 ---
@@ -26,26 +24,26 @@
 
 সহজভাবে English টাইপিং শেখা ও অনুশীলন করুন।
 
-* কীবোর্ডের সঠিক ব্যবহার শেখা
-* বিভিন্ন শব্দ ও Paragraph টাইপ করার অনুশীলন
-* টাইপিংয়ের গতি ও নির্ভুলতা বৃদ্ধি
+- কীবোর্ডের সঠিক ব্যবহার শেখা
+- বিভিন্ন শব্দ ও Paragraph টাইপ করার অনুশীলন
+- টাইপিংয়ের গতি ও নির্ভুলতা বৃদ্ধি
 
 ### 🇧🇩 Avro টাইপিং
 
 **Avro Phonetic** ব্যবহার করে সহজে বাংলা টাইপিং শিখুন।
 
-* বাংলা শব্দ টাইপ করার অনুশীলন
-* Avro-এর মাধ্যমে বাংলা টাইপিং শেখা
-* নিয়মিত অনুশীলনের মাধ্যমে দক্ষতা বৃদ্ধি
+- বাংলা শব্দ টাইপ করার অনুশীলন
+- Avro-এর মাধ্যমে বাংলা টাইপিং শেখা
+- নিয়মিত অনুশীলনের মাধ্যমে দক্ষতা বৃদ্ধি
 
 ### ⌨️ Bijoy টাইপিং
 
 **Bijoy Keyboard** ব্যবহার করে বাংলা টাইপিং শেখা ও অনুশীলন করুন।
 
-* Bijoy Keyboard-এর বিভিন্ন Key শেখা
-* শব্দ ও Paragraph টাইপ করার অনুশীলন
-* টাইপ করার সময় প্রয়োজনীয় Key Hint দেখা
-* Bijoy টাইপিংয়ে দক্ষতা বৃদ্ধি
+- Bijoy Keyboard-এর বিভিন্ন Key শেখা
+- শব্দ ও Paragraph টাইপ করার অনুশীলন
+- টাইপিংয়ের সময় প্রয়োজনীয় Key Hint দেখা
+- Bijoy টাইপিংয়ে দক্ষতা বৃদ্ধি
 
 ---
 
@@ -54,49 +52,32 @@
 Windows কম্পিউটারে ব্যবহার করার জন্য প্রস্তুত **EXE ফাইল** ডাউনলোড করুন।
 
 <p align="center">
-
-<a href="https://drive.google.com/file/d/18Az78OrR2UQcCFThtpzQPc85WbTtY7p7/view?usp=sharing">
-<img src="https://img.shields.io/badge/⬇%20Ripon%20Typing%20Tutor%20ডাউনলোড-EXE-success?style=for-the-badge&logo=windows&logoColor=white">
-</a>
-
+  <a href="https://drive.google.com/file/d/18Az78OrR2UQcCFThtpzQPc85WbTtY7p7/view?usp=sharing">
+    <img src="https://img.shields.io/badge/⬇%20Ripon%20Typing%20Tutor%20ডাউনলোড-EXE-success?style=for-the-badge&logo=windows&logoColor=white" alt="Download Ripon Typing Tutor">
+  </a>
 </p>
 
 ### 💻 ব্যবহার করার নিয়ম
 
-**১.** Download বাটনে ক্লিক করুন।
-
-**২.** Download হওয়া `.exe` ফাইলটি চালু করুন।
-
-**৩.** আপনার পছন্দের **English, Avro অথবা Bijoy** নির্বাচন করুন।
-
-**৪.** স্ক্রিনে দেওয়া শব্দ বা Paragraph টাইপ করুন।
-
-**৫.** নিয়মিত অনুশীলন করুন এবং আপনার টাইপিং দক্ষতা বাড়ান।
+1. Download বাটনে ক্লিক করুন।
+2. Download হওয়া `.exe` ফাইলটি চালু করুন।
+3. আপনার পছন্দের **English, Avro অথবা Bijoy** নির্বাচন করুন।
+4. স্ক্রিনে দেওয়া শব্দ বা Paragraph টাইপ করুন।
+5. নিয়মিত অনুশীলন করুন এবং আপনার টাইপিং দক্ষতা বাড়ান।
 
 ---
 
 ## 🎬 ডেমো ভিডিও
 
-অ্যাপটি কীভাবে কাজ করে এবং কীভাবে টাইপিং অনুশীলন করতে হয় তা দেখতে ভিডিওটি দেখুন।
+অ্যাপটি কীভাবে কাজ করে এবং কীভাবে টাইপিং অনুশীলন করতে হয়, তা দেখতে নিচের লিংকে ক্লিক করুন।
 
 <p align="center">
-
-<a href="https://youtu.be/IcF5EvcVRps">
-<img src="YOUR_VIDEO_THUMBNAIL_URL" alt="Ripon Typing Tutor Demo" width="850">
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://youtu.be/IcF5EvcVRps">
-▶️ <b>ডেমো ভিডিও দেখতে এখানে ক্লিক করুন</b>
-</a>
-
+  <a href="https://youtu.be/IcF5EvcVRps">
+    ▶️ **Ripon Typing Tutor Demo Video দেখুন**
+  </a>
 </p>
 
 ---
-
 
 # 📸 Screenshots
 
@@ -129,22 +110,25 @@ Windows কম্পিউটারে ব্যবহার করার জন
 <p align="center">
   <img src="./bijoy.png" alt="Bijoy Typing" width="800">
 </p>
-## Paragraph
-<p align="center">
-  <img src="./paragraph.png" alt="Bijoy Typing" width="800">
-</p>
 
 ---
+
+## 📝 Paragraph Typing
+
+<p align="center">
+  <img src="./paragraph.png" alt="Paragraph Typing Practice" width="800">
+</p>
+
 ---
 
 ## 👨‍🎓 কারা ব্যবহার করতে পারবেন?
 
-* 🎓 শিক্ষার্থী
-* 💼 চাকরিপ্রার্থী
-* 🧑‍💻 কম্পিউটার ব্যবহারকারী
-* 🇧🇩 বাংলা টাইপিং শিখতে আগ্রহী ব্যক্তি
-* 🇬🇧 English টাইপিং শিখতে আগ্রহী ব্যক্তি
-* ⌨️ Avro ও Bijoy শিখতে আগ্রহী যে কেউ
+- 🎓 শিক্ষার্থী
+- 💼 চাকরিপ্রার্থী
+- 🧑‍💻 কম্পিউটার ব্যবহারকারী
+- 🇧🇩 বাংলা টাইপিং শিখতে আগ্রহী ব্যক্তি
+- 🇬🇧 English টাইপিং শিখতে আগ্রহী ব্যক্তি
+- ⌨️ Avro ও Bijoy শিখতে আগ্রহী যে কেউ
 
 ---
 
