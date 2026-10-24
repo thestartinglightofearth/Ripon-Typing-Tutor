@@ -129,7 +129,10 @@ Windows কম্পিউটারে ব্যবহার করার জন
 <p align="center">
   <img src="./bijoy.png" alt="Bijoy Typing" width="800">
 </p>
-
+## ⌨️ Paragraph
+<p align="center">
+  <img src="./paragraph.png" alt="Bijoy Typing" width="800">
+</p>
 ---
 ---
 
