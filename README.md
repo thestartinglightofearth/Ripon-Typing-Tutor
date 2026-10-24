@@ -11,7 +11,7 @@
   <a href="https://drive.google.com/file/d/18Az78OrR2UQcCFThtpzQPc85WbTtY7p7/view?usp=sharing">
     <img src="https://img.shields.io/badge/⬇%20EXE%20ডাউনলোড-এখনই%20ডাউনলোড-success?style=for-the-badge&logo=windows&logoColor=white" alt="EXE Download">
   </a>
-  <a href="https://youtu.be/IcF5EvcVRps">
+  <a href="https://youtu.be/h8rXfhehRRo">
     <img src="https://img.shields.io/badge/▶%20ডেমো%20ভিডিও-দেখুন-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Video">
   </a>
 </p>
@@ -76,7 +76,7 @@ Windows কম্পিউটারে ব্যবহার করার জন
 অ্যাপটি কীভাবে কাজ করে এবং কীভাবে টাইপিং অনুশীলন করতে হয়, তা দেখতে নিচের লিংকে ক্লিক করুন।
 
 <p align="center">
-  <a href="https://youtu.be/IcF5EvcVRps">
+  <a href="https://youtu.be/h8rXfhehRRo">
     ▶️ **Ripon Typing Tutor Demo Video দেখুন**
   </a>
 </p>
